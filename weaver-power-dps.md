@@ -8,8 +8,11 @@
 7. <img src="https://render.guildwars2.com/file/04720B7D45462D026116FBE03B931730AE45F319/1770376.png" width="24" height="24" alt="Pyro Vortex" />  **3** | Pyro Vortex
 8. <img src="https://render.guildwars2.com/file/72030C6DDD3A36ACEC0A39FF03299271CB2FE433/1424240.png" width="24" height="24" alt="Firestorm" /> **SE** | Firestorm *vs. small hitboxes*
 9. <img src="https://render.guildwars2.com/file/EEDA0B1847077DE93DBB0575D44BE0615FBCE728/103328.png" width="24" height="24" alt="Conjure Fiery Greatsword" /> **C** | Conjure Fiery Greatsword
+
     a. <img src="https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png" width="24" height="24" alt="Fire Attunement" /> **F1** | Fire Attunement
+    
     b. <img src="https://render.guildwars2.com/file/D7051607F7726AE1C3E4B80FE7F316244C075C0F/103329.png" width="24" height="24" alt="" /> **4** | Fiery Rush
+    
     c. <img src="https://render.guildwars2.com/file/50A93174F3F9A1042654A7B00F146F31B2FABC09/103333.png" width="24" height="24" alt="" /> **SQ** | Firestorm
     d. **CE** | Drop Fiery Greatsword
 10. <img src="https://render.guildwars2.com/file/ED2422E6051855A76214FA9F292525C1359F0B59/103296.png" width="24" height="24" alt="Fire Grab" /> **SQ** | Fire Grab
@@ -27,9 +30,13 @@
 22. <img src="https://render.guildwars2.com/file/04720B7D45462D026116FBE03B931730AE45F319/1770376.png" width="24" height="24" alt="Pyro Vortex" />  **3** | Pyro Vortex
 23. **AA** | Auto Attack
 24. **F** | Pick up the second Fiery Greatsword
+
     a. <img src="https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png" width="24" height="24" alt="Fire Attunement" /> **F1** | Fire Attunement
+    
     b. <img src="https://render.guildwars2.com/file/D7051607F7726AE1C3E4B80FE7F316244C075C0F/103329.png" width="24" height="24" alt="" /> **4** | Fiery Rush
+    
     c. <img src="https://render.guildwars2.com/file/50A93174F3F9A1042654A7B00F146F31B2FABC09/103333.png" width="24" height="24" alt="" /> **SQ** | Firestorm
+    
     d. **CE** | Drop Fiery Greatsword
 25. <img src="https://render.guildwars2.com/file/CD08FDC23B56EBB19C90B909C65D9EE4D9FFF8C8/103183.png" width="24" height="24" alt="Ring of Fire" /> **4** | Ring of Fire
 26. <img src="https://render.guildwars2.com/file/5CF5932ACF2EB9D17BE4DC634BB01EB3CC37070F/1770375.png" width="24" height="24" alt="Cauterizing Strike" />  **3** | Cauterizing Strike
